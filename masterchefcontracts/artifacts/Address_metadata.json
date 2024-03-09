@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/EverRocket.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/EverRocket.sol": {
+			"keccak256": "0xe97beba792f05e357190dafb1c385c277fa1b87e7f47e9a37da93440b1a0c029",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://4a6e689513aa94a6e6b4ab03a606a442854929aa6be933dad1a8cfab2b61a7ad",
+				"dweb:/ipfs/QmeXU59gjPrm8gUBpHnGVETx8wFbyREmxbgwk65rAugkAf"
+			]
+		}
+	},
+	"version": 1
+}
