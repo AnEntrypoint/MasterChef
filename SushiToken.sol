@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.6.12;
 
-import "masterchefcontracts/token/ERC20/ERC20.sol";
-import "masterchefcontracts/access/Ownable.sol";
+import "contracts/token/ERC20/ERC20.sol";
+import "contracts/access/Ownable.sol";
 
 
 // SushiToken without Governance.

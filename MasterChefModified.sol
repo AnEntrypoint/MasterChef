@@ -2,9 +2,9 @@
 
 pragma solidity ^0.6.12;
 
-import "masterchefcontracts/token/ERC20/SafeERC20.sol";
-import "masterchefcontracts/access/Ownable.sol";
-import "masterchefcontracts/math/SafeMath.sol";
+import "contracts/token/ERC20/SafeERC20.sol";
+import "contracts/access/Ownable.sol";
+import "contracts/math/SafeMath.sol";
 import "SushiToken.sol";
 
 // MasterChef is the master of Sushi. He can make Sushi and he is a fair guy.
